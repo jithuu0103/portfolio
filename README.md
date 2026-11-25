@@ -1,4 +1,4 @@
-# Indrajith R — ML Engineer Portfolio
+# Indrajith R — AI|ML Engineer Portfolio
 
 A responsive dark navy/blue personal portfolio built with HTML, CSS and vanilla JavaScript.
 
